@@ -1,8 +1,10 @@
 {
   "schema_version": "1",
-  "event_id": "EVENT-018-DEMO",
-  "subject_ref": "SUBJECT-018-DEMO",
-  "occurred_at": "2026-09-19T09:30:00+08:00",
+  "event_id": "EVT-2026-000001",
+  "source": "municipal-affairs-office",
   "source_sequence": 1,
-  "payload_digest": "sha256:demo"
+  "subject_ref": "REL-SHAOSA01",
+  "occurred_at": "2026-02-01T10:30:00+09:00",
+  "payload_digest": "sha256:9c2848fe429139b52582760ce146a0beeb9ae63bf3e70e06ea1a8ecfe940b79b",
+  "payload": {"effective_date":"2026-03-01","ref":"REL-SHAOSA01","signing_date":"2026-02-01","type":"relation_concluded"}
 }

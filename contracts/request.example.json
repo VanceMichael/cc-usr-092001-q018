@@ -1,0 +1,24 @@
+{
+  "meta": {
+    "event_id": "EVT-2026-000002",
+    "occurred_at": "2026-09-21T19:00:00+09:00"
+  },
+  "payload": {
+    "ref": "ACT-092101",
+    "relation_ref": "REL-SHAOSA01",
+    "category": "culture",
+    "title": {
+      "zh": "友好纪念音乐会",
+      "ja": "友好記念コンサート"
+    },
+    "start_at": "2026-09-21T19:00:00+09:00",
+    "end_at": "2026-09-21T21:30:00+09:00",
+    "timezone": "Asia/Tokyo",
+    "location": "大阪フェスティバルホール",
+    "outcomes": {
+      "zh": "逾三千人观演",
+      "ja": "来場者3000人超"
+    },
+    "responsible_dept": "文化局"
+  }
+}
